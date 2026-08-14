@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Al1IzE</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://6666330.xyz/</id>
+  <link href="https://6666330.xyz/" rel="alternate"/>
+  <link href="https://6666330.xyz/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Al1IzE</rights>
+  <subtitle>Personal Lab</subtitle>
+  <title>Al1IzE's Lab</title>
+  <updated>2026-06-14T19:32:39.770Z</updated>
+  <entry>
+    <author>
+      <name>Al1IzE</name>
+    </author>
+    <category term="杂谈" scheme="https://6666330.xyz/categories/%E6%9D%82%E8%B0%88/"/>
+    <category term="测试" scheme="https://6666330.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
+    <content>
+      <![CDATA[<p>事情是这样的。</p><p>我前阵子终于把这个博客搭起来了，用的 Hexo 加上 Redefine 主题，前后折腾了不少时间。部署完盯着首页看了半天，突然意识到一个问题——内容呢？好像只有一篇 Hello World。</p><p>所以这篇纯粹是个测试，想看看博客能不能正常渲染，评论系统活没活，图片有没有裂开，手机打开会不会炸。</p><p>如果哪天你误入了这里，别慌，我没有在认真写东西，只是在这调配置。</p><p>之后可能会写点东西吧。游戏也好，折腾技术也好，或者单纯找个地方放一些碎碎念。</p><p>那就是这样。</p><p>顺便，当前站点还属于半成品状态，看到哪里不对劲都是正常的（笑）。</p>]]>
+    </content>
+    <id>https://6666330.xyz/2026/06/15/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://6666330.xyz/2026/06/15/%E8%BF%99%E5%8F%AA%E6%98%AF%E6%B5%8B%E8%AF%95/"/>
+    <published>2026-06-15T12:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>事情是这样的。</p>
+<p>我前阵子终于把这个博客搭起来了，用的 Hexo 加上 Redefine 主题，前后折腾了不少时间。部署完盯着首页看了半天，突然意识到一个问题——内容呢？好像只有一篇 Hello World。</p>
+<p>所以这篇纯粹是个测试，想看看博客能不能]]>
+    </summary>
+    <title>这篇只是测试</title>
+    <updated>2026-06-14T19:32:39.770Z</updated>
+  </entry>
+</feed>
